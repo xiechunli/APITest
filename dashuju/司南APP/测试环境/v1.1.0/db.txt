@@ -1,0 +1,10 @@
+[db_oracle]
+
+type=oracle
+conn=loan0731/loan0731@172.18.100.126:1521/testdb
+[sql]
+
+sql1_code=select * from LA_T_DXRETUAHEA  where rownum = 1
+[data]
+
+name=3
