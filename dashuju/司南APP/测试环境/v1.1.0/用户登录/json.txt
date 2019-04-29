@@ -1,7 +1,0 @@
-{
-    "phone": "18810093521", 
-    "pwd": "e10adc3949ba59abbe56e057f20f883e", 
-    "sysVersion": "Android7.0", 
-    "flag": "", 
-    "deviceUuid": "e983bfda8ca744d8bca8a44dbee266af"
-}
